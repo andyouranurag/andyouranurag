@@ -1,22 +1,18 @@
 # 👋 Hi, I'm Anurag Dubey!  
 
 ## 🚀 About Me  
-I am a **passionate Data Analyst, Python Developer, and Full Stack Developer** with expertise in **Python, SQL, Power BI, and the MERN stack**. I enjoy working on **data-driven solutions, web development, and cloud technologies** to build impactful projects.  
+I am a **passionate Data Analyst, Python Developer, and Full Stack Developer** with expertise in **Python, SQL, R prog, Power BI, and the MERN stack**. I enjoy working on **data-driven solutions, web development, and cloud technologies** to build impactful projects.  
 
-- 🔹 **Data Science & Analytics** – Python, SQL, Power BI, Pandas, NumPy  
+- 🔹 **Data Science & Analytics** – Python, R prog, SQL, Power BI, Pandas, NumPy  
 - 🔹 **Web Development** – MERN Stack (MongoDB, Express.js, React.js, Node.js), Django, Flask  
-- 🔹 **Cloud & DevOps** – Cloud Computing (Certified by NPTEL, IIT Kharagpur), AWS, GCP  
+- 🔹 **Cloud** – Cloud Computing (Certified by NPTEL, IIT Kharagpur), AWS, GCP  
 - 🔹 **Database Management** – SQL, MongoDB, Firebase  
 
-## 🌟 Projects  
-- 🔹 **Utkarsha** – A college departmental fest website built with React.js  
-- 🔹 **Dzenith** – A dedicated website for the Data Science department  
-- 🔹 **Event Management System** – A full-stack platform for managing volunteers and events  
 
 ## 📫 Connect With Me  
 - 🔗 LinkedIn: [(https://www.linkedin.com/in/anurag-dubey-6a57a7279)](#)  
 - 🔗 Portfolio: [anuragdubey.vercel.app](#)  
-- ✉️ Email: [Your Email](#)  
+- ✉️ Email: [anuragdubey23004@gmail.com](#)  
 
 ### ⚡ Fun Fact  
 I love solving **real-world problems** through **data and technology** and enjoy collaborating on exciting projects!  
