@@ -1,33 +1,82 @@
-# 👋 Hi, I'm Anurag Dubey!  
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">Hi 👋, I'm Anurag Dubey</h1>
+<h3 align="center">🚀 Data Analyst | Python Developer | Full Stack Developer</h3>
 
-## 🚀 About Me  
-I am a **passionate Data Analyst, Python Developer, and Full Stack Developer** with expertise in **Python, SQL, R prog, Power BI, and the MERN stack**. I enjoy working on **data-driven solutions, web development, and cloud technologies** to build impactful projects.  
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Data+Analyst;Python+Developer;MERN+Stack+Developer;Power+BI+Enthusiast;Cloud+Learner" />
+</p>
 
-- 🔹 **Data Science & Analytics** – Python, R prog, SQL, Power BI, Pandas, NumPy  
-- 🔹 **Web Development** – MERN Stack (MongoDB, Express.js, React.js, Node.js), Django, Flask  
-- 🔹 **Cloud** – Cloud Computing (Certified by NPTEL, IIT Kharagpur), AWS, GCP  
-- 🔹 **Database Management** – SQL, MongoDB, Firebase  
-
-
-## 📫 Connect With Me  
-- 🔗 LinkedIn: [(https://www.linkedin.com/in/anurag-dubey-6a57a7279)](#)  
-- 🔗 Portfolio: [anuragdubey.vercel.app](#)  
-- ✉️ Email: [anuragdubey23004@gmail.com](#)  
-
-### ⚡ Fun Fact  
-I love solving **real-world problems** through **data and technology** and enjoy collaborating on exciting projects!  
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=andyouranurag&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
+</p>
 
 ---
 
-### 🛠️ Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+## 🧠 About Me  
+
+💡 I am a **Data Analyst & Full Stack Developer** passionate about building **data-driven solutions** and scalable applications.  
+I specialize in converting **raw data → actionable insights** and developing **real-world impactful projects**.
+
+- 🔍 Currently working on **Data Analytics & MERN Projects**
+- ☁️ Exploring **Cloud Technologies (AWS & GCP)**
+- 📊 Love creating **interactive dashboards & insights**
+- 🎯 Goal: Become a **top-tier Data Engineer / Full Stack Developer**
 
 ---
 
-⭐ **Feel free to check out my repositories and collaborate on exciting projects!** 🚀
+## 🚀 Tech Stack  
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,express,django,flask,mysql,firebase,aws,gcp,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andyouranurag&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andyouranurag&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyouranurag&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🧩 Featured Projects  
+
+🚀 **Utkarsha Platform** – Department Fest Management System  
+🚀 **Dzenith Website** – Data Science Department Platform  
+🚀 **Event Management System** – Admin + User Interface (MERN)  
+🚀 **Power BI Dashboard Projects** – Business Insights & Data Visualization  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anurag-dubey-6a57a7279"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://anuragdubey.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:anuragdubey23004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## ⚡ Fun Fact  
+
+✨ I turn **data into decisions** and **ideas into real-world applications** 🚀  
+
+---
+
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://github.com/andyouranurag/andyouranurag/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+⭐ **If you like my work, give a star ⭐ to my repositories!**
