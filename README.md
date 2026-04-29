@@ -1,14 +1,13 @@
-<!-- ===================== ANIMATED BANNER ===================== -->
+<!-- ===================== CUSTOM NEON GIF BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Anurag%20Dubey&fontSize=40&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0f2027,100:00F7FF&height=220&section=header&text=ANURAG%20DUBEY&fontSize=45&fontColor=00F7FF&animation=twinkling&fontAlignY=50"/>
 </p>
 
-<h1 align="center">⚡ Hi, I'm Anurag Dubey</h1>
-<h3 align="center">💻 Data Analyst | MERN Developer | Python Enthusiast</h3>
+<h1 align="center">⚡ AI/ML Engineer | Data Analyst | Full Stack Developer</h1>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Turning+Data+into+Insights;Building+Scalable+Web+Apps;MERN+Stack+Developer;Power+BI+Storyteller;Cloud+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Data+Analyst;Full+Stack+Developer;Building+Intelligent+Systems;Turning+Data+into+Decisions" />
 </p>
 
 <!-- Profile Views -->
@@ -18,32 +17,59 @@
 
 ---
 
-## 🧠 About Me  
+## 🎓 Profile  
 
-💡 I build **data-driven applications** and turn **complex problems into simple solutions**.  
-Focused on creating **impactful dashboards, scalable APIs, and modern web apps**.
-
-- 🔭 Working on **MERN + Data Analytics Projects**
-- ☁️ Learning **AWS & Cloud Deployment**
-- 📊 Passionate about **visual storytelling with data**
-- 🎯 Target: **Data Engineer / Full Stack Specialist**
+🎓 **MSc in Artificial Intelligence & Data Analytics** – Amity University, Noida  
+💡 Passionate about **AI-driven solutions, intelligent systems, and data-powered innovation**
 
 ---
 
-## 🚀 Tech Arsenal  
+## 🧠 About Me  
+
+I am an **AI & Data Analytics enthusiast** with expertise in **Machine Learning, Data Science, and Full Stack Development**.  
+I focus on building **intelligent, scalable, and real-world impactful solutions**.
+
+- 🤖 **AI/ML** → Machine Learning, NLP, Deep Learning  
+- 📊 **Data Analytics** → Python, R, SQL, Power BI  
+- 🌐 **Full Stack** → MERN Stack, Django, Flask  
+- ☁️ **Cloud** → AWS, GCP, NPTEL Certified (IIT Kharagpur)  
+- 🗄️ **Databases** → MySQL, MongoDB, Firebase  
+
+---
+
+## 🚀 Featured Projects  
+
+✨ **GAN Fashion Image Generator**  
+→ Deep learning model for synthetic fashion image generation  
+
+📊 **News Sentiment Analysis**  
+→ NLP-based sentiment classification system  
+
+🧬 **Thyroid Disease Classification**  
+→ Machine learning healthcare prediction model  
+
+🌐 **Event Awareness Platform**  
+→ Full-stack MERN application for event management  
+
+⚡ **Electric Vehicle Dashboard**  
+→ Power BI dashboard for data-driven insights  
+
+---
+
+## 🛠️ Tech Arsenal  
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,express,django,flask,mysql,firebase,aws,gcp,git,github" />
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,react,nodejs,mongodb,express,django,flask,mysql,firebase,aws,gcp,git,github" />
+
 </p>
 
 ---
 
-## 🧩 Featured Projects  
+## 📜 Certifications  
 
-✨ **Utkarsha Platform** – Department Fest Management System  
-✨ **Dzenith Website** – Data Science Department Platform  
-✨ **Event Management System** – Admin + User Panel (MERN)  
-✨ **Power BI Dashboards** – Business Insights & Analytics  
+☁️ Cloud Computing – IIT Kharagpur (NPTEL)  
+📊 Additional certifications available on portfolio  
 
 ---
 
@@ -63,22 +89,24 @@ Focused on creating **impactful dashboards, scalable APIs, and modern web apps**
 
 ---
 
-## ⚡ Fun Zone  
+## ⚡ Fun Fact  
 
-✨ *I don’t just analyze data — I make it tell stories.*  
+✨ I transform **complex data → intelligent systems → real-world impact** 🚀  
 
 ---
 
-<!-- Neon Divider -->
+<!-- NEON FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0f2027,100:000000&height=120&section=footer"/>
 </p>
 
-<!-- Snake Animation -->
+<!-- SNAKE ANIMATION -->
 <p align="center">
   <img src="https://github.com/andyouranurag/andyouranurag/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-⭐ **Let’s build something impactful together 🚀**
+<p align="center">
+  ⭐ <b>From Anurag Dubey</b> — Building the future with AI & Data 🚀
+</p>
