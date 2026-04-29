@@ -1,32 +1,36 @@
-<!-- ===================== HEADER ===================== -->
-<h1 align="center">Hi 👋, I'm Anurag Dubey</h1>
-<h3 align="center">🚀 Data Analyst | Python Developer | Full Stack Developer</h3>
+<!-- ===================== ANIMATED BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Anurag%20Dubey&fontSize=40&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<h1 align="center">⚡ Hi, I'm Anurag Dubey</h1>
+<h3 align="center">💻 Data Analyst | MERN Developer | Python Enthusiast</h3>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Data+Analyst;Python+Developer;MERN+Stack+Developer;Power+BI+Enthusiast;Cloud+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Turning+Data+into+Insights;Building+Scalable+Web+Apps;MERN+Stack+Developer;Power+BI+Storyteller;Cloud+Explorer" />
 </p>
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=andyouranurag&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=andyouranurag&label=Profile%20Views&color=00F7FF&style=flat" />
 </p>
 
 ---
 
 ## 🧠 About Me  
 
-💡 I am a **Data Analyst & Full Stack Developer** passionate about building **data-driven solutions** and scalable applications.  
-I specialize in converting **raw data → actionable insights** and developing **real-world impactful projects**.
+💡 I build **data-driven applications** and turn **complex problems into simple solutions**.  
+Focused on creating **impactful dashboards, scalable APIs, and modern web apps**.
 
-- 🔍 Currently working on **Data Analytics & MERN Projects**
-- ☁️ Exploring **Cloud Technologies (AWS & GCP)**
-- 📊 Love creating **interactive dashboards & insights**
-- 🎯 Goal: Become a **top-tier Data Engineer / Full Stack Developer**
+- 🔭 Working on **MERN + Data Analytics Projects**
+- ☁️ Learning **AWS & Cloud Deployment**
+- 📊 Passionate about **visual storytelling with data**
+- 🎯 Target: **Data Engineer / Full Stack Specialist**
 
 ---
 
-## 🚀 Tech Stack  
+## 🚀 Tech Arsenal  
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,express,django,flask,mysql,firebase,aws,gcp,git,github" />
@@ -34,43 +38,41 @@ I specialize in converting **raw data → actionable insights** and developing *
 
 ---
 
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andyouranurag&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andyouranurag&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyouranurag&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
----
-
 ## 🧩 Featured Projects  
 
-🚀 **Utkarsha Platform** – Department Fest Management System  
-🚀 **Dzenith Website** – Data Science Department Platform  
-🚀 **Event Management System** – Admin + User Interface (MERN)  
-🚀 **Power BI Dashboard Projects** – Business Insights & Data Visualization  
+✨ **Utkarsha Platform** – Department Fest Management System  
+✨ **Dzenith Website** – Data Science Department Platform  
+✨ **Event Management System** – Admin + User Panel (MERN)  
+✨ **Power BI Dashboards** – Business Insights & Analytics  
 
 ---
 
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anurag-dubey-6a57a7279"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://anuragdubey.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:anuragdubey23004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/anurag-dubey-6a57a7279">
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="https://anuragdubey.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+  </a>
+  <a href="mailto:anuragdubey23004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
 </p>
 
 ---
 
-## ⚡ Fun Fact  
+## ⚡ Fun Zone  
 
-✨ I turn **data into decisions** and **ideas into real-world applications** 🚀  
+✨ *I don’t just analyze data — I make it tell stories.*  
 
 ---
+
+<!-- Neon Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
 
 <!-- Snake Animation -->
 <p align="center">
@@ -79,4 +81,4 @@ I specialize in converting **raw data → actionable insights** and developing *
 
 ---
 
-⭐ **If you like my work, give a star ⭐ to my repositories!**
+⭐ **Let’s build something impactful together 🚀**
